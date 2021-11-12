@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstacles>
+    <rock durability="50" size="52.358727" x="438.69507" y="236.4353"/>
+    <rock durability="50" size="64.722595" x="733.74646" y="522.5906"/>
+    <tree durability="50" size="100.72638" x="10.510681" y="493.5573"/>
+    <tree durability="50" size="136.27963" x="1198.4814" y="430.97064"/>
+    <tree durability="50" size="100.04003" x="950.1745" y="112.14789"/>
+    <tree durability="50" size="162.73993" x="988.08307" y="865.91113"/>
+    <tree durability="50" size="104.497765" x="736.4524" y="1105.2773"/>
+</obstacles>

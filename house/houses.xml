@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<house>
+    <wall durability="50" dx="140.0" dy="140.0" x="339.0" y="136.0"/>
+    <wall durability="50" dx="175.0" dy="140.0" x="386.0" y="220.0"/>
+    <floor durability="50" dx="35.0" dy="105.0" x="406.0" y="197.0"/>
+    <floor durability="50" dx="140.0" dy="35.0" x="407.0" y="232.0"/>
+</house>

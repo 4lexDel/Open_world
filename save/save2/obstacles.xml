@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstacles>
+    <tree durability="50" size="116.13777" x="167.47125" y="422.53455"/>
+    <rock durability="50" size="36.108463" x="796.7334" y="29.971619"/>
+    <tree durability="50" size="137.808" x="448.57214" y="376.13934"/>
+    <tree durability="50" size="164.58507" x="66.667786" y="474.88794"/>
+    <rock durability="50" size="57.641727" x="709.41907" y="662.42957"/>
+    <tree durability="50" size="140.29883" x="428.38446" y="96.88721"/>
+    <tree durability="50" size="137.9953" x="926.9208" y="291.87848"/>
+    <rock durability="50" size="96.0426" x="1601.8491" y="396.39728"/>
+    <rock durability="50" size="75.65423" x="1678.9387" y="256.9519"/>
+    <tree durability="50" size="166.61993" x="1556.2089" y="555.95776"/>
+    <tree durability="50" size="137.15706" x="1519.9886" y="427.29434"/>
+    <tree durability="50" size="100.58977" x="616.5647" y="1613.9138"/>
+    <wall durability="50" dx="280.0" dy="175.0" x="261.0" y="604.0"/>
+    <wall durability="50" dx="105.0" dy="35.0" x="541.0" y="569.0"/>
+    <wall durability="50" dx="35.0" dy="245.0" x="611.0" y="324.0"/>
+    <wall durability="50" dx="105.0" dy="35.0" x="646.0" y="324.0"/>
+    <wall durability="50" dx="35.0" dy="140.0" x="261.0" y="464.0"/>
+    <wall durability="50" dx="35.0" dy="70.0" x="401.0" y="534.0"/>
+    <wall durability="50" dx="175.0" dy="35.0" x="541.0" y="779.0"/>
+    <wall durability="50" dx="105.0" dy="175.0" x="716.0" y="604.0"/>
+    <floor durability="50" dx="175.0" dy="175.0" x="541.0" y="604.0"/>
+</obstacles>

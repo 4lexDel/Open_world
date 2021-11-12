@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstacles>
+    <wall durability="50" dx="500.0" dy="50.0" x="300.0" y="800.0"/>
+    <wall durability="50" dx="50.0" dy="800.0" x="300.0" y="800.0"/>
+    <wall durability="50" dx="500.0" dy="50.0" x="300.0" y="1600.0"/>
+    <wall durability="50" dx="50.0" dy="600.0" x="750.0" y="1050.0"/>
+    <wall durability="50" dx="50.0" dy="200.0" x="200.0" y="200.0"/>
+    <tree durability="50" x="890.171" y="561.92487"/>
+    <tree durability="50" x="646.19617" y="373.05835"/>
+    <tree durability="50" x="353.14526" y="421.87534"/>
+    <tree durability="50" x="146.73785" y="91.745544"/>
+    <tree durability="50" x="354.16656" y="793.9441"/>
+    <rock durability="50" x="577.3908" y="58.23047"/>
+    <rock durability="50" x="443.02026" y="355.46564"/>
+    <rock durability="50" x="365.08124" y="231.77454"/>
+    <rock durability="50" x="441.10703" y="324.20886"/>
+    <rock durability="50" x="964.3115" y="650.8534"/>
+    <tree durability="50" x="1545.2218" y="353.72943"/>
+    <rock durability="50" x="215.76862" y="1301.5632"/>
+    <rock durability="50" x="832.7345" y="1417.7441"/>
+    <tree durability="50" x="847.0496" y="1295.5725"/>
+    <tree durability="50" x="789.3052" y="1119.762"/>
+    <rock durability="50" x="899.3839" y="1574.2767"/>
+    <tree durability="50" x="308.06885" y="1403.7211"/>
+    <tree durability="50" x="157.36145" y="1014.79675"/>
+    <rock durability="50" x="895.5078" y="1161.7832"/>
+</obstacles>

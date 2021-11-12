@@ -1,0 +1,82 @@
+////Garder les list en parametre dans le fichier Game ??????????
+
+- SAUVER LES HEROES et les entités !!!!!
+    ==> créer un fichier composé de plusieurs xml
+
+
+#TRES IMPORTANT
+- METTRE DES COMMENTAIRES !!!
+- Eviter de stocker des données déductible
+- consommer les projectiles tirés                       ==> créer les items d'abord
+- Mettre shot en Boolean ;; Mettre hand to hand et Range en classe abtraite
+- G2RER LES DEBORDEMENTS ==> génération dynamique
+- Ajouter un inventaire à l'editeur
+- Collision rond carré
+- depop les entité eloigné
+- Save : Gérer le cas ou l'utilisateur ignore le pop up
+
+
+#IMPORTANT
+- Gérer la correspondance outil/ obstacle
+- Différents etat de la bouffe
+- Build ==> Game designer
+- bug : IA qui fonce dans les obstacles
+- probleme entité qui se chevauche = chemin unique a la fin (ajout d'aleatoire)
+
+
+#UTILE
+- Update a tout instant même pour les joueurs pas concerné
+- Ajout d'interface pour ceux qui ont des inventaires/
+- Incoéhrence de la baisse des PV apres plus d'energie (en faite tout le systeme en rupture de stock est overkill....)
+- les craft (defilement)                            ==> Prendre toute la hauteur disponible et ajouter des sections (ajout de tableau) + accessibilité du trade
+- ajouter de l'aléatoire sur les tirs
+- Bug selection dans l'inventaire apres le switch2
+- Ajout de classe abstraite ou de mot clé "default" dans les interfaces
+- EVITER LES REPETITIONS AVEC les durability (METTRE dans le constructeur de la super classe) + BUG AFFICHAGE QUAND DROPPEE
+- IMPLEMENTATION DE LA CLASS MAP
+- Créer une fonction save pour chaque objet
+- Bloc escalier
+
+- Mettre qu'un seul displait pour tout les item car une seu variable texture
+
+
+#DETAILS
+- Faire intervenir les FPS pour les etats de santé
+                                                          ==> Ajouter des 3 petits points aux arguments !
+- inventory.removeNullItem();      A améliorer
+- rendre le dropItem plus polyvalent    +   Animation   +   Mouvement
+- Code de l'affichage des item droppé redondant             ==> Utiliser plus de class abstraite ?
+
+-------------------------------Fait-------------------------------
+- Mur intelligent
+//A moduler
+//rendre plus ergonomique (attaché un mur à un autre)
+- notion d'interieur    >>  création de sols
+
+==> Bien avancé
+
+- deplacement hero          check ==> a voir pour les diagos
+
+- gestion des crafts        le dernier slot peut potentiellement être caché à moitié
+==> NIKEL !!
+
+
+---------○----------------------A faire-------------------------------
+edition ==> afficher le bloc utilisé (dans le coin par exemple)
+
+- notion d'interieur         BCP TROP DE SIMILITUDE ENTRE FLOOR ET WALL >> a generaliser        ==> AJOUTER DANS LES SAVE le sol
+- generation maison avec les xml
+
+<!-- reflexion a propos du lore-->
+
+- Ajouter les save des mobs+floor+hero
+- imaginer la generation dynamique des mobs(selon le territoire)
+- construction du hero
+- gestion des pauses
+
+- logique des outils !!!!!!!!!!!!!!!
+---------------------------------------------------------------------
+
+
+
+
